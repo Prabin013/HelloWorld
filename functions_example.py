@@ -1,5 +1,3 @@
-from idlelib.debugger_r import restart_subprocess_debugger
-
 
 def greet_user(first_name, last_name):
     print(f"Hello {first_name} {last_name}")
